@@ -1,0 +1,14 @@
+{
+  "name": "2-js-utils",
+  "version": "1.0.0",
+  "description": "Коллекция утилит на чистом JavaScript: memoize, debounce, compose, pipe.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/index.js"
+  },
+  "keywords": ["javascript", "utils", "memoize", "debounce", "functional"],
+  "author": "yuhjn69",
+  "license": "ISC",
+  "type": "commonjs"
+}
